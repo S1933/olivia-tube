@@ -60,9 +60,3 @@ npm run ios
         ffmpeg -i input.mp4 -c:v libx264 -c:a aac output_h264.mp4
         ```
 *   **Networking**: The app automatically detects if it's running on a simulator (`localhost`) or a physical device (LAN IP) to connect to the video server.
-
-## 📱 Screenshots
-
-<div align="center">
-  <img src="../screenshot.png" width="300" alt="OliviaTube Screenshot" />
-</div>
